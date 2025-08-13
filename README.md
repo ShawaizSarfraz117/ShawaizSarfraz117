@@ -35,4 +35,4 @@
 
 
 ### Languages and Tools:
-https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white https://img.shields.io/badge/Visual%20Studio%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white 
+[https://babeljs.io/]
