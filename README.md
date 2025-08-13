@@ -35,4 +35,4 @@
 
 
 ### Languages and Tools:
-[https://babeljs.io/]
+https://babeljs.io/
